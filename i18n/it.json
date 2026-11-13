@@ -1,0 +1,56 @@
+{
+  "studio": "Lo studio",
+  "projects": "Progetti",
+  "all": "Tutti i progetti",
+  "residential": "Residenziale",
+  "retail": "Retail",
+  "offices": "Uffici",
+  "contact": "Contatti",
+  "back": "TORNA AI PROGETTI",
+  "location": "Location",
+  "year": "Anno",
+  "type": "Tipologia",
+  "client": "Cliente",
+  "area": "Area",
+  "architecture": "Progetto architettonico",
+  "landscape": "Landscape",
+  "lighting": "Lighting",
+  "photography": "Crediti fotografici",
+  "missing": "INFO MANCANTE",
+  "ongoing": "ON GOING",
+  "contactUs": "Contattaci",
+  "previous": "Foto precedente",
+  "next": "Foto successiva",
+  "open": "Apri menu",
+  "close": "Chiudi menu",
+  "categories": "Categorie progetti",
+  "home": "Home",
+  "privacyLink": "Privacy & Cookie Policy",
+  "privacyTitle": "Privacy e cookie policy",
+  "privacySections": [
+    {
+      "heading": "Titolare del trattamento",
+      "text": "Federica Tebaldi Studio. Indirizzo e recapito privacy: INFO MANCANTE."
+    },
+    {
+      "heading": "Dati di navigazione",
+      "text": "Il sito è una vetrina senza registrazione o moduli di contatto. Il servizio di hosting Vercel può trattare indirizzi IP, richieste HTTP e informazioni tecniche per erogare e proteggere il sito. La base giuridica è il legittimo interesse alla sicurezza e al funzionamento del servizio. I tempi di conservazione dei log e le condizioni dei trasferimenti internazionali devono essere verificati prima della pubblicazione: INFO MANCANTE."
+    },
+    {
+      "heading": "Contatti",
+      "text": "Se ci contatti via email, utilizziamo i dati forniti per rispondere alla richiesta, sulla base delle misure precontrattuali richieste o del legittimo interesse a gestire la corrispondenza. I dati sono conservati per il tempo necessario alla gestione della richiesta e agli eventuali obblighi di legge. Recapito email: INFO MANCANTE."
+    },
+    {
+      "heading": "Memorizzazione locale",
+      "text": "Il sito utilizza localStorage (ft-lang) per ricordare la lingua scelta fino alla cancellazione dei dati del sito e sessionStorage (ft-home) per evitare di ripetere la fotografia della Home nella stessa sessione. Questi strumenti hanno finalità funzionali; non sono presenti nel codice strumenti di analytics o profilazione pubblicitaria. Puoi cancellare i dati del sito dalle impostazioni del browser."
+    },
+    {
+      "heading": "Servizi esterni",
+      "text": "I link ai social e a GeiVi Digital Studio rimandano a siti esterni, soggetti alle rispettive informative. Il fornitore di hosting può accedere ai dati tecnici necessari al servizio."
+    },
+    {
+      "heading": "I tuoi diritti",
+      "text": "Puoi chiedere accesso, rettifica, cancellazione, limitazione, portabilità ove applicabile e opporti al trattamento nei casi previsti dal GDPR. Puoi presentare un reclamo al Garante per la protezione dei dati personali o all’autorità competente. Per esercitare i diritti: INFO MANCANTE."
+    }
+  ]
+}

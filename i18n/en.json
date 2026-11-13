@@ -1,0 +1,56 @@
+{
+  "studio": "The studio",
+  "projects": "Projects",
+  "all": "All projects",
+  "residential": "Residential",
+  "retail": "Retail",
+  "offices": "Offices",
+  "contact": "Contact",
+  "back": "BACK TO PROJECTS",
+  "location": "Location",
+  "year": "Year",
+  "type": "Type",
+  "client": "Client",
+  "area": "Area",
+  "architecture": "Architectural design",
+  "landscape": "Landscape",
+  "lighting": "Lighting",
+  "photography": "Photography credits",
+  "missing": "MISSING INFORMATION",
+  "ongoing": "ON GOING",
+  "contactUs": "Contact us",
+  "previous": "Previous photo",
+  "next": "Next photo",
+  "open": "Open menu",
+  "close": "Close menu",
+  "categories": "Project categories",
+  "home": "Home",
+  "privacyLink": "Privacy & Cookie Policy",
+  "privacyTitle": "Privacy & Cookie Policy",
+  "privacySections": [
+    {
+      "heading": "Data controller",
+      "text": "Federica Tebaldi Studio. Address and privacy contact: MISSING INFORMATION."
+    },
+    {
+      "heading": "Browsing data",
+      "text": "This portfolio website has no registration or contact forms. Hosting provider Vercel may process IP addresses, HTTP requests and technical information to deliver and secure the website. The legal basis is the legitimate interest in operating and securing the service. Log retention and international transfer arrangements must be verified before publication: MISSING INFORMATION."
+    },
+    {
+      "heading": "Contact",
+      "text": "If you contact us by email, we use the information provided to respond, on the basis of requested pre-contractual steps or our legitimate interest in managing correspondence. Data is retained as necessary to handle the request and meet applicable legal obligations. Email contact: MISSING INFORMATION."
+    },
+    {
+      "heading": "Local storage",
+      "text": "The website uses localStorage (ft-lang) to remember your chosen language until site data is cleared, and sessionStorage (ft-home) to avoid repeating the homepage photograph within the same session. These serve functional purposes; the website code contains no analytics or advertising profiling tools. You can clear site data in your browser settings."
+    },
+    {
+      "heading": "External services",
+      "text": "Social media and GeiVi Digital Studio links lead to external websites governed by their own privacy notices. The hosting provider may access technical data needed to deliver the service."
+    },
+    {
+      "heading": "Your rights",
+      "text": "Under the GDPR, you may request access, rectification, erasure, restriction, portability where applicable, and object to processing where provided by law. You may complain to the Italian data protection authority or another competent authority. Contact for exercising rights: MISSING INFORMATION."
+    }
+  ]
+}

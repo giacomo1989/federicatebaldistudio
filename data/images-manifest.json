@@ -1,0 +1,53 @@
+{
+  "home": [
+    "images/foto-dinamiche-home/1.jpg",
+    "images/foto-dinamiche-home/2.jpg",
+    "images/foto-dinamiche-home/3.jpg",
+    "images/foto-dinamiche-home/4.JPG"
+  ],
+  "projects": {
+    "monzambano": [
+      "images/projects/residenziale/monzambano/1.jpg",
+      "images/projects/residenziale/monzambano/2.jpg",
+      "images/projects/residenziale/monzambano/3.jpg",
+      "images/projects/residenziale/monzambano/4.jpg",
+      "images/projects/residenziale/monzambano/5.jpg"
+    ],
+    "donea": [
+      "images/projects/residenziale/donea/1.jpg",
+      "images/projects/residenziale/donea/2.jpg",
+      "images/projects/residenziale/donea/3.jpg",
+      "images/projects/residenziale/donea/4.jpg",
+      "images/projects/residenziale/donea/5.jpg",
+      "images/projects/residenziale/donea/6.jpg",
+      "images/projects/residenziale/donea/7.jpg"
+    ],
+    "s-rita": [
+      "images/projects/residenziale/s-rita/1.jpg",
+      "images/projects/residenziale/s-rita/2.jpg",
+      "images/projects/residenziale/s-rita/3.png",
+      "images/projects/residenziale/s-rita/4.JPG"
+    ],
+    "s-silvestro": [],
+    "vaticano": [],
+    "s-vito": [],
+    "trieste": [
+      "images/projects/uffici/trieste/1.jpg",
+      "images/projects/uffici/trieste/2.jpg",
+      "images/projects/uffici/trieste/3.jpg",
+      "images/projects/uffici/trieste/4.jpg"
+    ],
+    "rismondo": [],
+    "ex-foro": [
+      "images/projects/retail/ex-foro/1.jpg",
+      "images/projects/retail/ex-foro/2.jpg",
+      "images/projects/retail/ex-foro/3.jpg",
+      "images/projects/retail/ex-foro/4.jpg",
+      "images/projects/retail/ex-foro/5.jpg",
+      "images/projects/retail/ex-foro/6.jpg",
+      "images/projects/retail/ex-foro/7.jpg",
+      "images/projects/retail/ex-foro/8.jpg"
+    ],
+    "due-carrare": []
+  }
+}

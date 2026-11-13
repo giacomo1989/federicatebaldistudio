@@ -1,0 +1,56 @@
+{
+  "studio": "El estudio",
+  "projects": "Proyectos",
+  "all": "Todos los proyectos",
+  "residential": "Residencial",
+  "retail": "Retail",
+  "offices": "Oficinas",
+  "contact": "Contacto",
+  "back": "VOLVER A PROYECTOS",
+  "location": "Ubicación",
+  "year": "Año",
+  "type": "Tipología",
+  "client": "Cliente",
+  "area": "Superficie",
+  "architecture": "Proyecto arquitectónico",
+  "landscape": "Paisajismo",
+  "lighting": "Iluminación",
+  "photography": "Créditos fotográficos",
+  "missing": "INFORMACIÓN NO DISPONIBLE",
+  "ongoing": "EN CURSO",
+  "contactUs": "Contáctanos",
+  "previous": "Foto anterior",
+  "next": "Foto siguiente",
+  "open": "Abrir menú",
+  "close": "Cerrar menú",
+  "categories": "Categorías de proyectos",
+  "home": "Inicio",
+  "privacyLink": "Privacidad y cookies",
+  "privacyTitle": "Política de privacidad y cookies",
+  "privacySections": [
+    {
+      "heading": "Responsable del tratamiento",
+      "text": "Federica Tebaldi Studio. Dirección y contacto de privacidad: INFORMACIÓN PENDIENTE."
+    },
+    {
+      "heading": "Datos de navegación",
+      "text": "Esta web de portfolio no dispone de registro ni formularios de contacto. El proveedor de alojamiento Vercel puede tratar direcciones IP, solicitudes HTTP e información técnica para prestar y proteger el servicio. La base jurídica es el interés legítimo en el funcionamiento y la seguridad del servicio. Los plazos de conservación de registros y las condiciones de las transferencias internacionales deben verificarse antes de publicar: INFORMACIÓN PENDIENTE."
+    },
+    {
+      "heading": "Contacto",
+      "text": "Si nos contactas por correo electrónico, utilizamos los datos facilitados para responder, sobre la base de las medidas precontractuales solicitadas o del interés legítimo en gestionar la correspondencia. Los datos se conservan durante el tiempo necesario para atender la solicitud y cumplir las obligaciones legales aplicables. Correo electrónico: INFORMACIÓN PENDIENTE."
+    },
+    {
+      "heading": "Almacenamiento local",
+      "text": "La web utiliza localStorage (ft-lang) para recordar el idioma elegido hasta que se borren los datos del sitio y sessionStorage (ft-home) para evitar repetir la fotografía de inicio durante la misma sesión. Su finalidad es funcional; el código no incluye herramientas de analítica ni de perfilado publicitario. Puedes borrar los datos del sitio desde los ajustes del navegador."
+    },
+    {
+      "heading": "Servicios externos",
+      "text": "Los enlaces a redes sociales y a GeiVi Digital Studio dirigen a sitios externos sujetos a sus propias políticas. El proveedor de alojamiento puede acceder a los datos técnicos necesarios para prestar el servicio."
+    },
+    {
+      "heading": "Tus derechos",
+      "text": "Según el RGPD, puedes solicitar acceso, rectificación, supresión, limitación, portabilidad cuando proceda y oponerte al tratamiento en los casos previstos. Puedes reclamar ante la autoridad italiana de protección de datos u otra autoridad competente. Contacto para ejercer tus derechos: INFORMACIÓN PENDIENTE."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"build":"node scripts/generate-images.mjs","dev":"node scripts/generate-images.mjs && python3 -m http.server 8000"}}

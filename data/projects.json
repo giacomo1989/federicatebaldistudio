@@ -1,0 +1,308 @@
+[
+  {
+    "id": "monzambano",
+    "name": "MONZAMBANO",
+    "category": "residenziale",
+    "year": 2023,
+    "area": 150,
+    "status": "completed",
+    "order": 1,
+    "imageFolder": "images/projects/residenziale/monzambano",
+    "translations": {
+      "it": {
+        "location": "Padova",
+        "type": "Residenziale",
+        "client": "Privato",
+        "description": "Un intervento residenziale d'impronta minimalista, dove il rigore geometrico incontra la purezza dei volumi e un raffinato studio dei contrasti.\nLa scala in metallo laccato e legno diventa protagonista e con il suo parapetto grafico e leggero, collega i livelli fungendo da elemento d'arredo architettonico. Il calore del pavimento in legno scuro fa da contrappunto al candore delle pareti, sulle quali si innestano porte filomuro progettate per azzerare ogni interferenza visiva. Nella cucina, il blocco opaco color fango dialoga con l'eleganza espressiva del piano in dekton venato, mentre la zona sottotetto sfrutta le linee dinamiche delle pendenze per creare un ambiente intimo e sofisticato. Un linguaggio d'interni essenziale, dove lo spazio è definito dalla luce e dalla precisione del dettaglio."
+      },
+      "en": {
+        "location": "Padua",
+        "type": "Residential",
+        "client": "Private client",
+        "description": "A minimalist residential intervention where geometric rigour meets pure volumes and a refined study of contrasts.\nThe lacquered metal and timber staircase takes centre stage, its light, graphic railing connecting the levels as an architectural furnishing element. The warmth of dark wood flooring contrasts with pristine white walls and flush doors designed to eliminate visual interference. In the kitchen, a matte mud-coloured block dialogues with the expressive elegance of the veined Dekton worktop, while the attic follows the dynamic roof slopes to create an intimate, sophisticated setting. An essential interior language defined by light and precise detailing."
+      },
+      "es": {
+        "location": "Padua",
+        "type": "Residencial",
+        "client": "Cliente privado",
+        "description": "Una intervención residencial minimalista donde el rigor geométrico se encuentra con la pureza de los volúmenes y un refinado estudio de los contrastes.\nLa escalera de metal lacado y madera se convierte en protagonista; su barandilla gráfica y ligera conecta los niveles como elemento arquitectónico. La calidez del suelo de madera oscura contrasta con la blancura de las paredes y las puertas enrasadas, diseñadas para eliminar interferencias visuales. En la cocina, el bloque mate color barro dialoga con la elegancia expresiva de la encimera de Dekton veteado, mientras el ático aprovecha las pendientes para crear un ambiente íntimo y sofisticado. Un lenguaje interior esencial definido por la luz y la precisión del detalle."
+      }
+    }
+  },
+  {
+    "id": "donea",
+    "name": "DONEÀ",
+    "category": "residenziale",
+    "year": 2023,
+    "area": 60,
+    "status": "completed",
+    "order": 2,
+    "imageFolder": "images/projects/residenziale/donea",
+    "translations": {
+      "it": {
+        "location": "Cortina D'Ampezzo",
+        "type": "Residenziale",
+        "client": "Privato",
+        "description": "Un appartamento affacciato sulle Tofane, che ha visto i proprietari crescere e le famiglie allargarsi.\nIl progetto di ristrutturazione nasce con l’obiettivo di ottimizzare gli spazi, donando alla casa un carattere contemporaneo e al contempo caldo e accogliente. Il legno è stato utilizzato a pavimento e a parete senza soluzione di continuità, una scelta pensata per nascondere il bagno della zona giorno e realizzare armadiature custom trattate come superfici architettoniche che ampliano visivamente lo spazio.\nIn soggiorno, la grande vetrata fissa incornicia il paesaggio circostante, lasciando che la natura diventi la vera tavolozza cromatica della stanza.\nDettagli vintage di famiglia e arredi in stile tipicamente ampezzano si accostano a elementi dalle linee pulite e minimali."
+      },
+      "en": {
+        "location": "Cortina d'Ampezzo",
+        "type": "Residential",
+        "client": "Private client",
+        "description": "An apartment overlooking the Tofane mountains that has witnessed its owners grow and their families expand.\nThe renovation optimises space while giving the home a contemporary yet warm and welcoming character. Timber runs seamlessly across floors and walls, concealing the living-area bathroom and integrating bespoke cabinetry as architectural surfaces that visually enlarge the space.\nIn the living room, a large fixed window frames the landscape, allowing nature to become the room's true colour palette.\nVintage family pieces and traditional Ampezzo furnishings sit alongside clean, minimalist elements."
+      },
+      "es": {
+        "location": "Cortina d'Ampezzo",
+        "type": "Residencial",
+        "client": "Cliente privado",
+        "description": "Un apartamento con vistas a las Tofane que ha visto crecer a sus propietarios y ampliarse sus familias.\nLa reforma optimiza los espacios y aporta a la vivienda un carácter contemporáneo, cálido y acogedor. La madera recorre suelos y paredes sin interrupción, ocultando el baño de la zona de día e integrando armarios a medida como superficies arquitectónicas que amplían visualmente el espacio.\nEn el salón, un gran ventanal fijo enmarca el paisaje y convierte la naturaleza en la verdadera paleta cromática de la estancia.\nDetalles vintage familiares y muebles típicos de Ampezzo conviven con elementos de líneas limpias y minimalistas."
+      }
+    }
+  },
+  {
+    "id": "s-rita",
+    "name": "S. RITA",
+    "category": "residenziale",
+    "year": 2024,
+    "area": 45,
+    "status": "completed",
+    "order": 3,
+    "imageFolder": "images/projects/residenziale/s-rita",
+    "translations": {
+      "it": {
+        "location": "Padova",
+        "type": "Residenziale",
+        "client": "Privato",
+        "description": "Il progetto nasce dall’esigenza dei proprietari di casa di trasformare radicalmente la vecchia cucina e ripensare alla zona giorno per inserire una postazione studio funzionale, assicurando al contempo ampi spazi contenitivi per una ricca collezione di libri, dischi in vinile e l’impianto audio Hi-Fi.\nUna libreria verde salvia a tutta altezza diventa il fulcro dell'intero appartamento: un pezzo d'arredo sartoriale che cambia le regole dello spazio. Questa grande quinta colorata si estende dall'ingresso fin dentro al soggiorno, dove si trasforma in un elemento divisorio a giorno. Il risultato è una nuova zona studio/home office riservata e protetta, ma perfettamente integrata e inondata dalla luce naturale.\nLa cucina è stata completamente rivoluzionata, sia nel layout che nei materiali: il vecchio pavimento è stato sostituito da un moderno pavimento in cemento architettonico, che riprende le tonalità dei pavimenti storici della casa. L'ambiente si trasforma così in uno spazio fluido e luminoso, il cui fulcro è il dialogo visivo tra superfici e textures."
+      },
+      "en": {
+        "location": "Padua",
+        "type": "Residential",
+        "client": "Private client",
+        "description": "The project radically transforms the old kitchen and rethinks the living area to incorporate a functional workspace and ample storage for books, vinyl records and a hi-fi system.\nA full-height sage-green bookcase becomes the apartment's focal point: a bespoke furnishing that redefines the space. It extends from the entrance into the living room, becoming an open partition. The new home office is private yet fully integrated and flooded with natural light.\nThe kitchen has been completely redesigned in layout and materials. Architectural concrete flooring replaces the old floor, echoing the tones of the home's historic surfaces. The result is a fluid, luminous space centred on the visual dialogue between surfaces and textures."
+      },
+      "es": {
+        "location": "Padua",
+        "type": "Residencial",
+        "client": "Cliente privado",
+        "description": "El proyecto transforma radicalmente la antigua cocina y replantea la zona de día para incorporar un espacio de trabajo funcional y amplio almacenamiento para libros, vinilos y el equipo de alta fidelidad.\nUna biblioteca verde salvia de suelo a techo se convierte en el núcleo del apartamento: una pieza a medida que redefine el espacio. Se extiende desde la entrada hasta el salón, donde se transforma en una división abierta. El nuevo despacho queda protegido, integrado y bañado por la luz natural.\nLa cocina se ha renovado por completo en distribución y materiales. Un pavimento de hormigón arquitectónico sustituye al antiguo y recupera los tonos de los suelos históricos de la casa. El resultado es un espacio fluido y luminoso centrado en el diálogo visual entre superficies y texturas."
+      }
+    }
+  },
+  {
+    "id": "s-silvestro",
+    "name": "S. SILVESTRO (?)",
+    "category": "residenziale",
+    "year": 2020,
+    "area": 30,
+    "status": "completed",
+    "order": 4,
+    "imageFolder": "images/projects/residenziale/s-silvestro",
+    "translations": {
+      "it": {
+        "location": "Vo’",
+        "type": "Residenziale",
+        "client": "Privato",
+        "description": "INFO MANCANTE"
+      },
+      "en": {
+        "location": "Vo’",
+        "type": "Residential",
+        "client": "Private client",
+        "description": "MISSING INFORMATION"
+      },
+      "es": {
+        "location": "Vo’",
+        "type": "Residencial",
+        "client": "Cliente privado",
+        "description": "INFORMACIÓN NO DISPONIBLE"
+      }
+    }
+  },
+  {
+    "id": "vaticano",
+    "name": "VATICANO",
+    "category": "residenziale",
+    "year": 2026,
+    "area": 180,
+    "status": "ongoing",
+    "order": 5,
+    "imageFolder": "images/projects/residenziale/vaticano",
+    "translations": {
+      "it": {
+        "location": "Roma",
+        "type": "Residenziale",
+        "client": "Privato",
+        "description": "INFO MANCANTE"
+      },
+      "en": {
+        "location": "Rome",
+        "type": "Residential",
+        "client": "Private client",
+        "description": "MISSING INFORMATION"
+      },
+      "es": {
+        "location": "Roma",
+        "type": "Residencial",
+        "client": "Cliente privado",
+        "description": "INFORMACIÓN NO DISPONIBLE"
+      }
+    }
+  },
+  {
+    "id": "s-vito",
+    "name": "S. VITO",
+    "category": "residenziale",
+    "year": 2026,
+    "area": 90,
+    "status": "ongoing",
+    "order": 6,
+    "imageFolder": "images/projects/residenziale/s-vito",
+    "translations": {
+      "it": {
+        "location": "Pordenone",
+        "type": "Residenziale",
+        "client": "Privato",
+        "description": "INFO MANCANTE"
+      },
+      "en": {
+        "location": "Pordenone",
+        "type": "Residential",
+        "client": "Private client",
+        "description": "MISSING INFORMATION"
+      },
+      "es": {
+        "location": "Pordenone",
+        "type": "Residencial",
+        "client": "Cliente privado",
+        "description": "INFORMACIÓN NO DISPONIBLE"
+      }
+    }
+  },
+  {
+    "id": "trieste",
+    "name": "TRIESTE",
+    "category": "uffici",
+    "year": 2024,
+    "area": 80,
+    "status": "completed",
+    "order": 7,
+    "imageFolder": "images/projects/uffici/trieste",
+    "translations": {
+      "it": {
+        "location": "Padova, Italia",
+        "type": "Ufficio",
+        "client": "Privato",
+        "description": "In questo studio notarile il contrasto calibrato tra linee pulite e ortogonali degli arredi contemporanei neri opachi incontra la morbidezza sinuosa delle sedute iconiche color prugna.\nSospensioni grafiche ed essenziali, con un’elegante finitura bronzo, disegnano lo spazio."
+      },
+      "en": {
+        "location": "Padua, Italy",
+        "type": "Office",
+        "client": "Private client",
+        "description": "In this notary's office, the carefully balanced contrast between the clean, orthogonal lines of matte black contemporary furniture and the sinuous softness of iconic plum-coloured seating defines the interior.\nGraphic, understated pendant lights with an elegant bronze finish shape the space."
+      },
+      "es": {
+        "location": "Padua, Italia",
+        "type": "Oficina",
+        "client": "Cliente privado",
+        "description": "En esta notaría, el contraste equilibrado entre las líneas limpias y ortogonales del mobiliario contemporáneo negro mate y la suavidad sinuosa de los asientos icónicos color ciruela define el interior.\nLuminarias suspendidas gráficas y esenciales, con un elegante acabado en bronce, dibujan el espacio."
+      }
+    }
+  },
+  {
+    "id": "rismondo",
+    "name": "RISMONDO",
+    "category": "uffici",
+    "year": 2026,
+    "area": 650,
+    "status": "ongoing",
+    "order": 8,
+    "imageFolder": "images/projects/uffici/rismondo",
+    "translations": {
+      "it": {
+        "location": "Padova",
+        "type": "Ufficio",
+        "client": "Privato",
+        "description": "Il restyling di quest’ufficio ridefinisce il concetto di spazio direzionale, trasformando l'ambiente originale in un luogo contemporaneo in cui l'architettura dialoga strettamente con la nuova identità visiva dello Studio.\nIl rigore delle geometrie trova bilanciamento nel calore della boiserie in legno e nella profondità del verde utilizzato come quinta scenografica, elementi ripresi anche negli arredi per tessere un racconto coerente e armonico.\nIl risultato è uno spazio che si fa interprete di una filosofia aziendale: un luogo dove la precisione e il prestigio si fondono con un'atmosfera avvolgente."
+      },
+      "en": {
+        "location": "Padua",
+        "type": "Office",
+        "client": "Private client",
+        "description": "This office redesign redefines the executive workspace, transforming the original interior into a contemporary setting where architecture closely dialogues with the firm's new visual identity.\nGeometric rigour is balanced by warm timber panelling and deep green scenic backdrops, echoed in the furnishings to create a coherent, harmonious narrative.\nThe result embodies a corporate philosophy, blending precision and prestige with an enveloping atmosphere."
+      },
+      "es": {
+        "location": "Padua",
+        "type": "Oficina",
+        "client": "Cliente privado",
+        "description": "La renovación de esta oficina redefine el espacio directivo y transforma el interior original en un entorno contemporáneo donde la arquitectura dialoga con la nueva identidad visual del estudio.\nEl rigor geométrico se equilibra con la calidez del revestimiento de madera y la profundidad del verde como fondo escenográfico, elementos retomados en el mobiliario para construir un relato coherente y armonioso.\nEl resultado interpreta una filosofía empresarial: precisión y prestigio se funden con una atmósfera envolvente."
+      }
+    }
+  },
+  {
+    "id": "ex-foro",
+    "name": "EX FORO",
+    "category": "retail",
+    "year": "2021–2022",
+    "area": 950,
+    "status": "completed",
+    "order": 9,
+    "imageFolder": "images/projects/retail/ex-foro",
+    "translations": {
+      "it": {
+        "location": "Padova",
+        "type": "Hospitality",
+        "client": "The Food Hub s.r.l.",
+        "description": "L’Ex Foro Boario di Padova, edificio storico dei primi del Novecento affacciato su Prato della Valle, ospita un ristorante dal carattere cosmopolita in cui l’identità storica del luogo incontra una visione architettonica contemporanea.\nA ridefinire lo spazio è anche l'illuminazione, concepita come un vero e proprio ponte temporale. Da un lato, l'installazione aerea organica e minimale disegnata su misura per il locale dichiara la contemporaneità e l'internazionalità del progetto; dall'altro, tagli di luce radente e accenti puntuali mettono a nudo la texture dei mattoni storici e la monumentalità degli spazi. Il risultato è un’atmosfera teatrale ma intima, dove la transizione tra la Padova storica e l'esperienza cosmopolita interna avviene in modo fluido e suggestivo."
+      },
+      "en": {
+        "location": "Padua",
+        "type": "Hospitality",
+        "client": "The Food Hub s.r.l.",
+        "description": "Padua's former Foro Boario, a historic early twentieth-century building overlooking Prato della Valle, houses a cosmopolitan restaurant where the site's historic identity meets a contemporary architectural vision.\nLighting also redefines the space, conceived as a bridge across time. A bespoke organic, minimalist suspended installation expresses the project's contemporary international character, while grazing light and focused accents reveal the texture of historic brickwork and the monumental spaces. The result is theatrical yet intimate, with a fluid, evocative transition from historic Padua to the cosmopolitan interior."
+      },
+      "es": {
+        "location": "Padua",
+        "type": "Hostelería",
+        "client": "The Food Hub s.r.l.",
+        "description": "El antiguo Foro Boario de Padua, edificio histórico de principios del siglo XX frente a Prato della Valle, alberga un restaurante cosmopolita donde la identidad histórica del lugar se encuentra con una visión arquitectónica contemporánea.\nLa iluminación redefine el espacio como un puente temporal. Una instalación suspendida orgánica y minimalista, diseñada a medida, expresa el carácter contemporáneo e internacional del proyecto, mientras la luz rasante y los acentos puntuales revelan la textura del ladrillo histórico y la monumentalidad de los espacios. El resultado es una atmósfera teatral e íntima, con una transición fluida y evocadora entre la Padua histórica y el interior cosmopolita."
+      }
+    },
+    "credits": {
+      "architecture": "AACM + Arch. Paolo Osti, Arch. Andrea Marchesin",
+      "landscape": "Arch. Leonardo Marzotti",
+      "lighting": "federica tebaldi studio",
+      "photography": "Andrea Anoni, Catalogo, Alberto Sinigaglia, AACM"
+    }
+  },
+  {
+    "id": "due-carrare",
+    "name": "DUE CARRARE",
+    "category": "retail",
+    "year": 2026,
+    "area": null,
+    "status": "completed",
+    "order": 10,
+    "imageFolder": "images/projects/retail/due-carrare",
+    "translations": {
+      "it": {
+        "location": "Due Carrare",
+        "type": "Hospitality",
+        "client": "Privato",
+        "description": "INFO MANCANTE"
+      },
+      "en": {
+        "location": "Due Carrare",
+        "type": "Hospitality",
+        "client": "Private client",
+        "description": "MISSING INFORMATION"
+      },
+      "es": {
+        "location": "Due Carrare",
+        "type": "Hostelería",
+        "client": "Cliente privado",
+        "description": "INFORMACIÓN NO DISPONIBLE"
+      }
+    }
+  }
+]
